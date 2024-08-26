@@ -1,13 +1,14 @@
-## Hola, mi nombre es Nicolás  Jajarabilla
+## Hola, mi nombre es Nicolás  Jajarabilla 👋
 
-### Desarrollo web 
+### Desarrollo web 🧑‍💻
 
 Soy desarrollador web desde 2023.
+
  Me fui capacitando en este último  año en varias academias online, Institutos de capacitación presencial en mi ciudad natal y con recursos online (YouTube, sitios web, documentación oficial de tecnologías, etc.). 
 
-En estos últimos  años he aprendido y practicado las siguientes tecnologías:
-
- - JavaScript
+ En estos últimos  años he aprendido y practicado las siguientes tecnologías:
+ 
+ - JavaScript 
  - HTML
  - CSS
  - PHP
