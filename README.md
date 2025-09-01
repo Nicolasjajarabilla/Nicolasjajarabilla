@@ -21,15 +21,8 @@ Me especializo en el **desarrollo frontend con React.js + TypeScript**, y tambi�
 - Desarrollo de un sistema Multi-CRUD dinámico con **JavaScript, Node.js, jQuery, Socket.io y Redis**.  
 - Construcción de una **API de Market Data en tiempo real** integrada a Excel con **Python, Pandas, RTD y Protocol Buffers**.  
 - Implementación de herramientas para control de posiciones de mercado usando **FastAPI y Excel**.  
-- Colaboración en proyectos con **LLMs (ChatGPT, Claude)** aplicados a optimización de tareas.  
-
----
-
-## 📂 Proyectos destacados
-🔹 [Repositorio 1](#) – Descripción breve (ej: Dashboard financiero con React y datos en tiempo real).  
-🔹 [Repositorio 2](#) – Descripción breve (ej: API en Node.js con WebSockets).  
-🔹 [Repositorio 3](#) – Descripción breve (ej: Librería de componentes UI personalizada).  
-
+- Colaboración en proyectos con **LLMs (ChatGPT, Claude)** aplicados a optimización de tareas.
+  
 ---
 
 ## 🎯 Enfoque
