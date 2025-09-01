@@ -1,37 +1,44 @@
-## Hola, mi nombre es Nicolás  Jajarabilla 👋
+# 👋 Hola, soy **Nicolás Jajarabilla**
 
-### Desarrollo web 🧑‍💻
+## 💻 Desarrollador Web | FullStack Jr
 
-Soy desarrollador web desde 2023.
+Soy **desarrollador de software** desde 2023, con experiencia en proyectos reales y formación en academias online, institutos y aprendizaje autodidacta.  
+Me especializo en el **desarrollo frontend con React.js + TypeScript**, y también trabajo con backend en **Node.js y Python**.  
 
- Me fui capacitando en este último  año en varias academias online, Institutos de capacitación presencial en mi ciudad natal y con recursos online (YouTube, sitios web, documentación oficial de tecnologías, etc.). 
+---
 
- En estos últimos  años he aprendido y practicado las siguientes tecnologías:
- 
- - JavaScript 
- - HTML
- - CSS
- - PHP
- - React.js
- - TypeScript
- 
-Tambien  he  aprendido y utilizando librerías de UI y UX, framework de CSS y librerías de React.js
- - React-hook-form
- - Zustand
- - React-router
- - React Query
- - Material UI
- - Chakra UI
- - Swiper
- - Talwind
- - Boostrap 
- 
-Pero las Tecnologías que uso al día a dia y mas conocimientos tengo son:
+## 🚀 Tecnologías principales
+- **Frontend**: React.js + TypeScript, Chakra UI, Material UI (MUI), Swiper.js  
+- **State Management**: React Query, Zustand, React Hook Form, React Router  
+- **Backend**: Node.js, FastAPI (Python)  
+- **Bases de datos**: SQL, Redis  
+- **Otros**: Tailwind, Bootstrap, Git, APIs REST  
 
- - React.js con TypeScript
- - Chakra UI
- - MUI
- - TypeScript
- - Swiper 
- - Todas las Librerías de React,js nombradas anteriormente. 
+---
 
+## 🏢 Experiencia
+**Event2Trading Argentina S.R.L (2024 – 2025)**  
+- Desarrollo de un sistema Multi-CRUD dinámico con **JavaScript, Node.js, jQuery, Socket.io y Redis**.  
+- Construcción de una **API de Market Data en tiempo real** integrada a Excel con **Python, Pandas, RTD y Protocol Buffers**.  
+- Implementación de herramientas para control de posiciones de mercado usando **FastAPI y Excel**.  
+- Colaboración en proyectos con **LLMs (ChatGPT, Claude)** aplicados a optimización de tareas.  
+
+---
+
+## 📂 Proyectos destacados
+🔹 [Repositorio 1](#) – Descripción breve (ej: Dashboard financiero con React y datos en tiempo real).  
+🔹 [Repositorio 2](#) – Descripción breve (ej: API en Node.js con WebSockets).  
+🔹 [Repositorio 3](#) – Descripción breve (ej: Librería de componentes UI personalizada).  
+
+---
+
+## 🎯 Enfoque
+Me interesa crear **aplicaciones modernas, rápidas y escalables**, con especial cuidado en la **experiencia de usuario**.  
+Mi meta es seguir creciendo como desarrollador FullStack, aportando valor en proyectos desafiantes y colaborativos.  
+
+---
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/nicolas-jajarabilla-226811304)  
+- [GitHub](https://github.com/nicolasjajarabilla)  
+- 📧 **nic.jajarabilla@gmail.com**
