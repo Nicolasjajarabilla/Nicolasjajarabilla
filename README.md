@@ -1,37 +1,40 @@
-# 👋 Hola, soy **Nicolás Jajarabilla**
+# 👋 Hi, I’m **Nicolás Jajarabilla**
 
-## 💻 Desarrollador Web | FullStack Jr
+## 💻 Full Stack Software Developer | Specializing in Fintech & Real-time Systems
 
-Soy **desarrollador de software** desde 2023, con experiencia en proyectos reales y formación en academias online, institutos y aprendizaje autodidacta.  
-Me especializo en el **desarrollo frontend con React.js + TypeScript**, y también trabajo con backend en **Node.js y Python**.  
+I am a **Software Developer** with a strong focus on building high-performance, scalable web applications. Since 2023, I have specialized in **Frontend development with React.js + TypeScript** and **Backend architecture using Node.js and Python (FastAPI)**. 
 
----
-
-## 🚀 Tecnologías principales
-- **Frontend**: React.js + TypeScript, Chakra UI, Material UI (MUI), Swiper.js  
-- **State Management**: React Query, Zustand, React Hook Form, React Router  
-- **Backend**: Node.js, FastAPI (Python)  
-- **Bases de datos**: SQL, Redis  
-- **Otros**: Tailwind, Bootstrap, Git, APIs REST  
+I excel at bridging the gap between complex financial data and intuitive user interfaces, currently working as an **Independent Contractor** for international projects.
 
 ---
 
-## 🏢 Experiencia
-**Event2Trading Argentina S.R.L (2024 – 2025)**  
-- Desarrollo de un sistema Multi-CRUD dinámico con **JavaScript, Node.js, jQuery, Socket.io y Redis**.  
-- Construcción de una **API de Market Data en tiempo real** integrada a Excel con **Python, Pandas, RTD y Protocol Buffers**.  
-- Implementación de herramientas para control de posiciones de mercado usando **FastAPI y Excel**.  
-- Colaboración en proyectos con **LLMs (ChatGPT, Claude)** aplicados a optimización de tareas.
-  
----
+## 🚀 Technical Tech Stack
 
-## 🎯 Enfoque
-Me interesa crear **aplicaciones modernas, rápidas y escalables**, con especial cuidado en la **experiencia de usuario**.  
-Mi meta es seguir creciendo como desarrollador FullStack, aportando valor en proyectos desafiantes y colaborativos.  
+- **Frontend**: React.js, TypeScript, Tailwind CSS, Shadcn UI, Chakra UI, Swiper.js
+- **State Management & Routing**: React Query, Zustand, React Hook Form, React Router
+- **Backend & APIs**: Node.js, FastAPI (Python), C#, .NET, REST APIs, Socket.io
+- **Data & Real-time**: PostgreSQL, Redis (Pub/Sub), MongoDB, Protocol Buffers
+- **Tools & Integration**: Docker, GitHub Actions (CI/CD), Git, Pyxll, Excel-DNA
 
 ---
 
-## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/nicolas-jajarabilla-226811304)  
-- [GitHub](https://github.com/nicolasjajarabilla)  
+## 🏢 Professional Experience
+
+### **Event2Trading Argentina S.R.L** (2024 – 2025)
+* **Engineered a real-time Multi-CRUD system** for entity management using **Node.js, Socket.io, and Redis**, resulting in a **40% reduction in data synchronization latency**.
+* **Architected a high-performance MarketData API** integrated with Excel (RTD) via **Python and Protocol Buffers**, enabling seamless real-time financial analysis for institutional trading.
+* **Automated market position variance controls** by developing specialized tools with **Python (Pandas) and FastAPI**, cutting manual reporting time by **over 15 hours per week**.
+* **Leveraged AI Integration (ChatGPT/Claude)** to accelerate development cycles and optimize complex code documentation processes.
+
+---
+
+## 🎯 Focus & Goals
+I am passionate about creating **modern, fast, and scalable applications** with a deep commitment to **User Experience (UX)** and technical excellence. My goal is to continue growing as a Full Stack Developer while delivering high-impact solutions in challenging, remote, and collaborative environments.
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/nicolas-jajarabilla-226811304)
+- [GitHub](https://github.com/nicolasjajarabilla)
 - 📧 **nic.jajarabilla@gmail.com**
+- 📍 Based in **Argentina** | Available for **Remote / Contractor** roles
